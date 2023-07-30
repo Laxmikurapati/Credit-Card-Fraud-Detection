@@ -1,6 +1,6 @@
 ## **Project Name: SecureGuard: Keeping Your Credit Card Safe 🛡️💳**
 
-![SecureGuard](https://www.example.com/images/secure_guard.jpg)
+![SecureGuard](img1.jpeg)
 
 ## Introduction
 
